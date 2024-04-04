@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16.593866"
+   height="8.4"
+   id="svg2855"
+   sodipodi:version="0.32"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="US11N31VARA.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata2862">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>02/03/06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>recréation du sigbe N31A à partir d'un signe du temple de Meneptah (où le signe est d'ailleurs inversé dans le sens vertical !?)</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2860" />
+  <sodipodi:namedview
+     inkscape:window-height="843"
+     inkscape:window-width="1663"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="43.389526"
+     inkscape:cx="8.3430273"
+     inkscape:cy="4.2176077"
+     inkscape:window-x="22"
+     inkscape:window-y="29"
+     inkscape:current-layer="svg2855"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="0" />
+  <path
+     style="fill:#000000;stroke:none"
+     d="m 2.439264,5.531288 c 0.2748467,-0.8817993 0.2748467,-1.7578727 0,-2.62822 h 11.69816 c -0.320653,0.8817993 -0.320653,1.7578727 0,2.62822 z M 0,1.855215 v 1.047853 h 1.219632 c 0.3092027,0.8703473 0.3092027,1.7464207 0,2.62822 H 0 V 6.579141 H 7.283436 L 6.390184,8.4 h 3.813497 L 9.276074,6.579141 h 7.317792 V 5.531288 h -1.202455 c -0.377914,-0.8703473 -0.377914,-1.7464207 0,-2.62822 h 1.202455 V 1.855215 h -2.610798 l 1.172058,-1.9529953 -1.077803,0.02335707 -1.266749,1.92963823 m -8.9883209,0 L 2.5718004,-0.07442323 1.3627438,-0.09601773 2.6805906,1.855215 m 5.3708406,4.706749 h 0.4394686 l 0.549693,1.082208 H 7.5017382 Z"
+     id="path2857"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+</svg>

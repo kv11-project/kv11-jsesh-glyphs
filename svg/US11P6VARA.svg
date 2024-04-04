@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="5.318021"
+   height="17.977417"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="US11P6VARA.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="41.774633"
+     inkscape:cx="2.6690839"
+     inkscape:cy="8.0311896"
+     inkscape:window-width="1262"
+     inkscape:window-height="964"
+     inkscape:window-x="20"
+     inkscape:window-y="9"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="0.22741073,9.5871578"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000;stroke:none"
+     d="M 0.13473412,0.02393797 1.1866705,0 1.1749874,1.683145 H 4.1611296 L 4.1434155,0 h 1.0998112 c -0.013832,4.1600746 0.04604,7.0867071 0.010111,8.3662918 -0.0018,0.06416 1.5764233,-0.019538 1.5748952,0.036099 -0.00525,0.1910467 -0.00869,0.6307053 -0.00899,0.7180486 -2.554e-4,0.074283 -1.5781453,0.038351 -1.5730366,0.034309 0,0.465551 -0.1194989,1.2873136 -0.2627459,1.6513986 -0.143246,0.364084 -0.4652324,0.70131 -1.2053391,1.011677 -0.3342413,0.274555 -0.531205,0.59686 -0.590891,0.966913 v 5.19268 H 2.13079 v -5.19268 C 2.0711033,12.414684 1.8681707,12.092379 1.521992,11.817824 0.79382333,11.507457 0.47780586,11.167247 0.33455986,10.797194 c -0.14324667,-0.370053 -0.21487,-1.1888326 -0.21487,-1.6424456 0.004062,-8.58e-4 -1.58659326,0.02451 -1.58671206,-0.066103 -2.172e-4,-0.1655461 -0.0049,-0.6739019 -0.0049,-0.6739019 0.017803,-0.03788 1.589871,0.04567 1.58876992,-7.624e-4 C 0.08732948,7.169405 0.01336331,4.2818235 0.13473412,0.02393797 Z M 1.1391754,2.435188 1.1274925,4.010898 H 4.1846868 L 4.1669688,2.435188 Z M 4.166587,4.816658 H 1.0916814 L 1.092253,8.3544477 H 4.231799 C 4.286875,8.3815497 4.1665851,4.816658 4.1665851,4.816658 Z M 1.0685059,9.1543666 c 0.047749,0.9788504 0.5430154,2.0248174 1.5815521,2.0367544 1.0385353,-0.01194 1.5697403,-1.057904 1.593615,-2.0367544 z"
+     id="path1"
+     sodipodi:nodetypes="ccccccssscsccccccscssscccccccccccccccc" />
+</svg>

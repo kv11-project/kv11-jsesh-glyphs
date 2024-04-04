@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="9.786246"
+   height="5.52"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="US11N23VARA.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="90.535714"
+     inkscape:cx="4.7936884"
+     inkscape:cy="2.7668639"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="true">
+    <sodipodi:guide
+       position="11.995266,6.7791716"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.232347,5.9618146"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000;stroke:none;stroke-width:0.703967"
+     d="m 9.7939826,0.80616749 -2.5121093,0.002908 0.00763,3.91960461 2.495717,-0.00289 0.0013,0.7770152 -9.80322184,-9.114e-4 -0.001335,-0.7770151 2.55894544,0.0084 -0.00763,-3.91960475 -2.54255316,-0.008407 -0.001335,-0.777014 9.80325586,9.0517e-4 z m -3.2183149,3.92320211 -0.00763,-3.91960477 -3.3208899,0.003209 0.00763,3.91960477 z"
+     id="path1"
+     sodipodi:nodetypes="cccccccccccccccccc" />
+</svg>
